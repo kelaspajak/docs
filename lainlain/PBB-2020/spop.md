@@ -1,7 +1,7 @@
 ---
 id: Modul SPOP
 title: Download SPOP 2020
-linkurl: https://kutt.it/m4aHEA
+linkurl: /fitur/spop.html
 fitur : lainlain
 createdTime : 13/01/2020
 modifiedTime : 22/01/2020
