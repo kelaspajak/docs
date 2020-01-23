@@ -1,11 +1,12 @@
 ---
-id: 100
-title: Efaktur
-linkurl: https://kutt.it/qQEFQt
+id: 101
+title: Manual Serdig Efaktur
+linkurl: https://kutt.it/xg4Myw
 fitur : lainlain
 createdTime : 12/01/2020
 modifiedTime : 12/01/2020
-topik: e-Faktur
+topik: eFaktur
 color: ffd33d
 img: efaktur.png
+status: free
 ---
