@@ -1,5 +1,5 @@
 ---
-title: Analisa Lampiran AB SPT PPN
+title: Analisa SPT Masa PPN
 linkurl: https://kutt.it/Jhg25T
 fitur : lainlain
 createdTime : 26/01/2020
