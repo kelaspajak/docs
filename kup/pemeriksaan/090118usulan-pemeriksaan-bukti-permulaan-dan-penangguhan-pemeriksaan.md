@@ -1,5 +1,4 @@
 ---
-id: 090118
 title: Usulan Pemeriksaan Bukti Permulaan dan Penangguhan Pemeriksaan
 fitur: resume
 category: kup

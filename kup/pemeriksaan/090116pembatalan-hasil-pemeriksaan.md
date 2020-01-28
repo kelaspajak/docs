@@ -1,5 +1,4 @@
 ---
-id: 090116
 title: Pembatalan Hasil Pemeriksaan
 fitur: resume
 category: kup

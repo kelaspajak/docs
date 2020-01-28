@@ -1,5 +1,4 @@
 ---
-id: 090117
 title: Pengungkapan Ketidakbenaran Pengisian SPT Selama Pemeriksaan
 fitur: resume
 category: kup

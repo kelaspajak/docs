@@ -1,5 +1,4 @@
 ---
-id: 090113
 title: Penjelasan WP dan Permintaan Keterangan Kepada Pihak Ketiga
 fitur: resume
 category: kup

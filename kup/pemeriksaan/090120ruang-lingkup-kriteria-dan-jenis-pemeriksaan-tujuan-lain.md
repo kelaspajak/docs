@@ -1,5 +1,4 @@
 ---
-id: 090120
 title: Ruang Lingkup, Kriteria, dan Jenis Pemeriksaan Tujuan Lain
 fitur: resume
 category: kup

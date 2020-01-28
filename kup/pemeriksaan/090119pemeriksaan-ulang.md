@@ -1,5 +1,4 @@
 ---
-id: 090119
 title: Pemeriksaan Ulang
 fitur: resume
 category: kup

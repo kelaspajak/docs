@@ -1,5 +1,4 @@
 ---
-id: 090111
 title: Penyegelan
 fitur: resume
 category: kup

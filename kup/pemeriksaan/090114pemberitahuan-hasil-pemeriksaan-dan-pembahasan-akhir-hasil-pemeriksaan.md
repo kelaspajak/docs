@@ -1,5 +1,4 @@
 ---
-id: 090114
 title: Pemberitahuan Hasil Pemeriksaan dan Pembahasan Akhir Hasil Pemeriksaan
 fitur: resume
 category: kup

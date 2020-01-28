@@ -1,5 +1,4 @@
 ---
-id: 090112
 title: Penolakan Pemeriksaan
 fitur: resume
 category: kup
