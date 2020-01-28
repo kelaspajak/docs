@@ -1,5 +1,6 @@
 ---
-title: Penolakan Pemeriksaan
+order: 14
+title: Pelaporan Hasil Pemeriksaan dan Pengembalian Dokumen
 fitur: resume
 category: kup
 topik: Pemeriksaan

@@ -1,5 +1,5 @@
 ---
-id: 090110
+order: 10
 title: Peminjaman Dokumen
 fitur: resume
 category: kup

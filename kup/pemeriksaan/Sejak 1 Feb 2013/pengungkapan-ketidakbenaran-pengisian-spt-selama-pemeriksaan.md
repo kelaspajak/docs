@@ -1,5 +1,6 @@
 ---
-title: Penjelasan WP dan Permintaan Keterangan Kepada Pihak Ketiga
+order: 16
+title: Pengungkapan Ketidakbenaran Pengisian SPT Selama Pemeriksaan
 fitur: resume
 category: kup
 topik: Pemeriksaan

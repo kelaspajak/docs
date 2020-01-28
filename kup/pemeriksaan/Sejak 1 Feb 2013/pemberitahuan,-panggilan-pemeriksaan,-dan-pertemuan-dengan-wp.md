@@ -1,5 +1,5 @@
 ---
-id: 090109
+order: 9
 title: Pemberitahuan, Panggilan Pemeriksaan, dan Pertemuan dengan WP
 fitur: resume
 category: kup

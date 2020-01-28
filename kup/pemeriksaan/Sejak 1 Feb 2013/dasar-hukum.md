@@ -1,5 +1,5 @@
 ---
-id: 0900
+order: 0
 title: Dasar Hukum Pemeriksaan
 linkurl: https://kutt.it/joMGp1
 fitur: resume

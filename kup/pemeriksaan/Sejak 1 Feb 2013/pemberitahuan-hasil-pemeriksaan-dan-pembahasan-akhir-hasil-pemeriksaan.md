@@ -1,5 +1,6 @@
 ---
-title: Usulan Pemeriksaan Bukti Permulaan dan Penangguhan Pemeriksaan
+order: 13
+title: Pemberitahuan Hasil Pemeriksaan dan Pembahasan Akhir Hasil Pemeriksaan
 fitur: resume
 category: kup
 topik: Pemeriksaan

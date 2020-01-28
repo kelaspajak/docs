@@ -1,5 +1,5 @@
 ---
-id: 0902
+order: 2
 title: Ruang Lingkup, Kriteria, dan Jenis Pemeriksaan
 linkurl: https://kutt.it/g7dkht
 fitur: resume

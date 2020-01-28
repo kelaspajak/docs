@@ -1,5 +1,5 @@
 ---
-id: 0903
+order: 3
 title: Standar Pemeriksaan
 linkurl: https://kutt.it/YaauYX
 fitur: resume

@@ -1,5 +1,5 @@
 ---
-id: 0901
+order: 1
 title: Cara Pemeriksaan
 linkurl: https://kutt.it/MN6w5i
 fitur: resume

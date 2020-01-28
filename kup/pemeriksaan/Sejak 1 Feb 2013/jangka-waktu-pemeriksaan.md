@@ -1,5 +1,5 @@
 ---
-id: 090106
+order: 6
 title: Jangka Waktu Pemeriksaan
 linkurl: 
 fitur: resume

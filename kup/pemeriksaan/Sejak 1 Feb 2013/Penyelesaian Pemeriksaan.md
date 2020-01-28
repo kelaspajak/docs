@@ -1,5 +1,5 @@
 ---
-id: 090107
+order: 7
 title: Penyelesaian Pemeriksaan
 fitur: resume
 category: kup

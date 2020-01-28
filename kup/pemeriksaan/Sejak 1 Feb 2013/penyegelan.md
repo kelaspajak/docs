@@ -1,5 +1,6 @@
 ---
-title: Pembatalan Hasil Pemeriksaan
+order: 10
+title: Penyegelan
 fitur: resume
 category: kup
 topik: Pemeriksaan
