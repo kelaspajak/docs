@@ -2,7 +2,8 @@
 id: Modul SPOP
 title: Download SPOP 2020
 linkurl: /fitur/spop.html
-fitur : lainlain
+fitur: lainlain
+category: lainlain
 createdTime : 13/01/2020
 modifiedTime : 22/01/2020
 topik: PBB

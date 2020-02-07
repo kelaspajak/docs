@@ -2,7 +2,8 @@
 id: 160
 title : Pembukuan perpajakan
 linkurl: https://kutt.it/zrKgOl
-fitur : lainlain
+fitur: lainlain
+category: lainlain
 createdTime : 10/01/2019
 modifiedTime : 10/01/2019
 topik: Chapter Akuntansi

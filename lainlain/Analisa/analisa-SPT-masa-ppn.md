@@ -1,7 +1,8 @@
 ---
 title: Analisa SPT Masa PPN
 linkurl: https://kutt.it/Jhg25T
-fitur : lainlain
+fitur: lainlain
+category: lainlain
 createdTime : 26/01/2020
 modifiedTime : 26/01/2020
 topik: Analisa
