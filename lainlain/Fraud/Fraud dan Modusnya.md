@@ -1,6 +1,6 @@
 ---
 title: Fraud dan Modusnya
-linkurl: https://kutt.it/AvXerM
+linkurl: /fitur/spop.html
 fitur: lainlain
 category: lainlain
 createdTime : 25/01/2020
@@ -17,3 +17,5 @@ img: fraud.png
 - Fraud dan profesi fraud examiner di masa depan
 
 dibatasi pada tindakan fraud yang dilakukan didalam perusahaan/institusi saja atau istilah kerennya __internal fraud__
+
+link : https://kutt.it/AvXerM
