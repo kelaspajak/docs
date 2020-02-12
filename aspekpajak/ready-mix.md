@@ -5,4 +5,5 @@ fitur: aspekpajak
 category: aspekpajak
 modifiedTime : 12/01/2020
 topik: Versi Lengkap
+img: truck.png
 ---
