@@ -1,5 +1,5 @@
 ---
-id: 59
+img: anchor.png
 title : Pelabuhan
 linkurl: https://kutt.it/jV42DO
 fitur: aspekpajak
