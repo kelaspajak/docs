@@ -1,7 +1,7 @@
 ---
 id: HS-Code-Search-Engine
 title: HS Code Search Engine
-linkurl: https://kutt.it/LF9ARN
+linkurl: https://drive.google.com/file/d/123yF8XsH0maOAktYeHZ_nID8KFSm7JiO/view?usp=sharing
 fitur: lainlain
 category: lainlain
 modifiedTime : 22/01/2020
