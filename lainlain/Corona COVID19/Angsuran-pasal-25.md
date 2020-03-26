@@ -1,6 +1,6 @@
 ---
 title: Insentif Pajak terkait Corona
-linkurl: https://drive.google.com/file/d/1BVJyxhgz7bPSYuV71hDOnWZ-f7rHhxXo/view?usp=sharing
+linkurl: https://drive.google.com/drive/folders/12XEwchuXc1Y20A96xe5YLY9q85iavVZj?usp=sharing
 fitur: lainlain
 category: lainlain
 modifiedTime: 2020-03-26T10:20:00Z
