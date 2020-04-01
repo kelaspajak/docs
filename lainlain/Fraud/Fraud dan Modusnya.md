@@ -19,4 +19,4 @@ img: fraud.png
 
 dibatasi pada tindakan fraud yang dilakukan didalam perusahaan/institusi saja atau istilah kerennya __internal fraud__
 
-link : https://kutt.it/AvXerM
+[link](https://kutt.it/AvXerM)
