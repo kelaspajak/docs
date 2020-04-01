@@ -1,6 +1,7 @@
 ---
 title: Fraud dan Modusnya
-linkurl: /fitur/spop.html
+linkurl: /f/fraud-modus.html
+permalink: /f/fraud-modus.html
 fitur: lainlain
 category: lainlain
 createdTime : 25/01/2020
