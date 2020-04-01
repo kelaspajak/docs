@@ -8,6 +8,7 @@ createdTime : 31/08/2019
 modifiedTime : 07/01/2020
 topik: Versi Ringan
 img: discussion.png
+permalink: /f/server-pulsa/
 ---
 BKP tidak berwujud adalah berupa hak tertentu, goodwill, trademark, lisensi dan jenis-jenis aktiva tidak berwujud
 lainnya yang apabila digunakan akan menimbulkan royalty atas penggantian BKP tidak berwujud tersebut. BKP tidak berwujud
