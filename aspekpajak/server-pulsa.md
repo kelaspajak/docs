@@ -1,7 +1,7 @@
 ---
 id: 91
 title : Server Pulsa, Agen Pulsa
-linkurl: /fitur/resume/kup/server-pulsa/
+linkurl: /f/server-pulsa/
 fitur: aspekpajak
 category: aspekpajak
 createdTime : 31/08/2019
